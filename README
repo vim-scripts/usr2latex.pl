@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=130
+
+This script can be very useful to produce a readable book version of your usr_*.txt files.
+It generates on its standard output a latex file from all the usr_*.txt.
+
+I know, it's far from perfect but it produced a quite good latex file for me.
+Email me if you want to get latex, dvi or pdf generated output.
